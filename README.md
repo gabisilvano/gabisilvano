@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Brazilian, currently living in Munich. I finished a Data Science Bootcamp in December 2021, and I'm looking for new projects to continue to improve my skills as a data analyst. 
+#### I'm Brazilian, currently living in Munich. I finished a Data Science Bootcamp in December 2021, and I'm looking for new projects to continue to improve my skills as a data analyst. 
 
 <!--
 **gabisilvano/gabisilvano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
